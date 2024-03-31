@@ -91,7 +91,7 @@ You can use the above patterns while also having the following experimental addi
 
 Patterns can also be matched using many of the patterns above together. For example, you may have an array inside a hash, so you could use the hash and array patterns. We'll go through each of the various patterns in more detail below.
 
-When we say "pattern", we aren't talking about design patterns which you may have come across. We mean the pattern used to match against an input.
+When we say "pattern", we aren't talking about design patterns which you may have come across but we mean the pattern used to match against an input.
 
 ### Return values
 
